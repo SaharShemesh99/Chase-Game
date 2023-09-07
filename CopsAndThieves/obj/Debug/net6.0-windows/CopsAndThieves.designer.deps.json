@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CefSharp.Wpf/96.0.180": {
+        "runtime": {
+          "lib/net452/CefSharp.Wpf.dll": {
+            "assemblyVersion": "96.0.180.0",
+            "fileVersion": "96.0.180.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CefSharp.Wpf/96.0.180": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e9f+p3FOrJqwYPTRUvSu6+LZjBMd0VG/QQ07mi6rrrqSVHBop63/nHowsPeAcD/LvaevShQH/zM7mAODBKO/TA==",
+      "path": "cefsharp.wpf/96.0.180",
+      "hashPath": "cefsharp.wpf.96.0.180.nupkg.sha512"
+    }
+  }
+}

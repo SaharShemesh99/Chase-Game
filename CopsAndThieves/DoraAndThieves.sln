@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoraAndThieves", "DoraAndThieves.csproj", "{0EAD7FCB-8EFB-4D50-9842-7B3EA1584D59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic", "..\Logic\Logic.csproj", "{FFE420C6-BBB5-41C3-A2FA-61F00B899F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EAD7FCB-8EFB-4D50-9842-7B3EA1584D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAD7FCB-8EFB-4D50-9842-7B3EA1584D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAD7FCB-8EFB-4D50-9842-7B3EA1584D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAD7FCB-8EFB-4D50-9842-7B3EA1584D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE420C6-BBB5-41C3-A2FA-61F00B899F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE420C6-BBB5-41C3-A2FA-61F00B899F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE420C6-BBB5-41C3-A2FA-61F00B899F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE420C6-BBB5-41C3-A2FA-61F00B899F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C9D4ACE-1ABE-4E61-B078-8C1186C39A7D}
+	EndGlobalSection
+EndGlobal

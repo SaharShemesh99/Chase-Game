@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ead7fcb-8efb-4d50-9842-7b3ea1584d59": {
+      "ProjectGuid": "0ead7fcb-8efb-4d50-9842-7b3ea1584d59",
+      "DisplayName": "DoraAndThieves",
+      "ColorIndex": 0
+    },
+    "ffe420c6-bbb5-41c3-a2fa-61f00b899f4c": {
+      "ProjectGuid": "ffe420c6-bbb5-41c3-a2fa-61f00b899f4c",
+      "DisplayName": "Logic",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
